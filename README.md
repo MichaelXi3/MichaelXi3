@@ -3,7 +3,7 @@
 - 🙆 I’m @MichaelXi, a student at Wake Forest University who majored in Computer Science and Mathematical Business
 - 👀 I’m interested in ***Coding for Impacts***. @WFU AppDev 
 - 💻 Previous projects: Eatery, WFU Covid, Deacon Emojis, AppDev Official Website, Wordle Game
-- 🌱 Languages I use: Java, JavaScript, HTML, CSS & SCSS, Python, Swift, R, NodeJS
+- 🌱 Languages I use: Java, C, JavaScript, HTML, CSS & SCSS, Python, Swift, R, NodeJS
 - 📫 How to reach out to me: xiy20@wfu.edu
 - 🙈 Fun Fact: Black Coffee Lover; Let's Go Warriors!
 <p>
