@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hey! It's Michael.
-    <a href="https://www.spherex.me/">SphereX 📝</a>
+    <a href="https://www.voidx.me/">SphereX 📝</a>
   </h1>
   
   <p align="center">
