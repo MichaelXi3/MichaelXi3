@@ -1,16 +1,16 @@
 <div>
   
   <h1 align="center">
-    Hey! It's Michael.
-    <a href="https://www.voidx.me/">SphereX 📝</a>
+    Hey! It's Michael. I like coding and writing.
+    <a href="https://www.voidx.me/"> This is my blog 📝</a>
   </h1>
   
   <p align="center">
-<!--     「芝兰生于深谷，不以无人而不芳。君子修身养德，不以穷困而改志。」 -->
+    <!-- 「芝兰生于深谷，不以无人而不芳。君子修身养德，不以穷困而改志。」 -->
   </p>
   
   <p align="center">
-    Coding for Love & Impact! ❤️ @WFU AppDev 😉️
+    <!-- Coding for Love & Impact! ❤️ @WFU AppDev 😉️ -->
   </p>
   
 </div>
